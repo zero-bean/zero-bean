@@ -20,7 +20,7 @@
     <tr>
       <td align="center">교육</td>
       <td align="center">2020.03 ~ 2026.08</td>
-      <td align="left">가천대학교 소프트웨어전공 재학 </td>
+      <td align="left">가천대학교 소프트웨어전공 4-2 재학 </td>
     </tr>
   </tbody>
 </table>
