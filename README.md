@@ -1,10 +1,10 @@
-## Profile
+## TimeLine
 <table>
   <thead>
     <tr>
       <th align="center">종류</th>
       <th align="center">날짜</th>
-      <th align="center">내용</th>
+      <th align="center">활동</th>
     </tr>
   </thead>
   <tbody>
