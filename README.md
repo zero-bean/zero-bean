@@ -32,17 +32,14 @@
   </a>
 </p>
 
-## Tech
+## Stack
+
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="50"/>
   <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/DirectX_11-107C10?style=for-the-badge" height="50"/>
+  <img src="https://img.shields.io/badge/DirectX-107C10?style=for-the-badge" height="50"/>
   <img src="https://img.shields.io/badge/Perforce-8C1AB0?style=for-the-badge&logo=perforce&logoColor=white" height="50"/>
   <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=gitforwindows&logoColor=white" height="50"/>
-</p>
-
-## Communication
-<p align="left">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="50"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge" height="50"/>
 </p>
