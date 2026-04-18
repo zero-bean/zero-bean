@@ -46,20 +46,3 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="50"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge" height="50"/>
 </p>
-  
-## Contact Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/%EC%98%81%EB%B9%88-%EB%B0%95-b59306376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" height="50" alt="LinkedIn"/>
-  </a>
-  <a href="https://open.kakao.com/o/skGK63Jh">
-    <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=000000" height="50" alt="KakaoTalk"/>
-  </a>
-  <a href="mailto:suplem07@naver.com">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" height="50" alt="Naver Mail"/>
-  </a>
-</p>
-
-
-
-
