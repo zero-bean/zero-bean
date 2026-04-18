@@ -1,9 +1,5 @@
 ## Profile
-<p align="center">
-  <img width="505" height="505" alt="Image" src="https://github.com/user-attachments/assets/ddeca8f0-c0eb-4a9d-91af-170bb813c729" />
-</p>
-
-<table align="center">
+<table>
   <thead>
     <tr>
       <th align="center">종류</th>
